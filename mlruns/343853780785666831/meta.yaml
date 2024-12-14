@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/343853780785666831
+creation_time: 1734207890504
+experiment_id: '343853780785666831'
+last_update_time: 1734207890504
+lifecycle_stage: active
+name: data_drift_experiment

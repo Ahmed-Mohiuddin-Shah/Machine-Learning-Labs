@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/343853780785666831/1737a7e783e04a43b1465bae72edd242/artifacts
+end_time: 1734209193379
+entry_point_name: ''
+experiment_id: '343853780785666831'
+lifecycle_stage: active
+run_id: 1737a7e783e04a43b1465bae72edd242
+run_name: DataDrift
+run_uuid: 1737a7e783e04a43b1465bae72edd242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734209187930
+status: 4
+tags: []
+user_id: Ahmed Mohiuddin Shah

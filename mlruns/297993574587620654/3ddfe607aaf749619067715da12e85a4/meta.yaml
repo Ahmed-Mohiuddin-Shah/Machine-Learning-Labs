@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/297993574587620654/3ddfe607aaf749619067715da12e85a4/artifacts
+end_time: 1734207683770
+entry_point_name: ''
+experiment_id: '297993574587620654'
+lifecycle_stage: active
+run_id: 3ddfe607aaf749619067715da12e85a4
+run_name: RandomForest_Floor_tuned_hyprparameters
+run_uuid: 3ddfe607aaf749619067715da12e85a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734207451638
+status: 3
+tags: []
+user_id: Ahmed Mohiuddin Shah

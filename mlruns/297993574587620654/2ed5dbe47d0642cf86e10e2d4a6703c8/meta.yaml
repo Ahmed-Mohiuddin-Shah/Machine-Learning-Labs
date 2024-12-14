@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/297993574587620654/2ed5dbe47d0642cf86e10e2d4a6703c8/artifacts
+end_time: 1734207324634
+entry_point_name: ''
+experiment_id: '297993574587620654'
+lifecycle_stage: active
+run_id: 2ed5dbe47d0642cf86e10e2d4a6703c8
+run_name: RandomForest_BuildingID_default
+run_uuid: 2ed5dbe47d0642cf86e10e2d4a6703c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734207320389
+status: 3
+tags: []
+user_id: Ahmed Mohiuddin Shah
