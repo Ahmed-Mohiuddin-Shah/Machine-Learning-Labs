@@ -2,4 +2,7 @@
 
 data/titanic/train.csv
 data/titanic/test.csv
-data/titanic/gender_submission.csv   
+data/titanic/gender_submission.csv
+
+data/ujiindoorloc/trainingData.csv
+data/ujiindoorloc/validationData.csv
