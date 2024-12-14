@@ -6,3 +6,4 @@ data/titanic/gender_submission.csv
 
 data/ujiindoorloc/trainingData.csv
 data/ujiindoorloc/validationData.csv
+data/ujiindoorloc/data_drifted.csv
