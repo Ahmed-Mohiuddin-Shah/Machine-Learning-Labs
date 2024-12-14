@@ -1,1 +1,5 @@
 .kaggle
+
+data/titanic/train.csv
+data/titanic/test.csv
+data/titanic/gender_submission.csv   
