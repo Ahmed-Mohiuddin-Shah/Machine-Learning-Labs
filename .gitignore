@@ -8,4 +8,6 @@ data/ujiindoorloc/trainingData.csv
 data/ujiindoorloc/validationData.csv
 data/ujiindoorloc/data_drifted.csv
 
+data/student_perf/students_performance.csv
+
 mlartifacts
