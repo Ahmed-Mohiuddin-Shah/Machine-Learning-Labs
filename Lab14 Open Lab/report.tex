@@ -27,8 +27,18 @@
 		\hline
 	\end{tabular}
 \end{table}
+
+\newpage
+
 \section*{Introduction}
 This report provides a detailed summary of the methodologies, key extractions, and results obtained during the analysis of the global air network. The primary objective was to identify critical hubs using centrality measures and predictive models. Two centrality measures, \textbf{Closeness Centrality} and \textbf{Betweenness Centrality}, were employed due to their promising results during preprocessing.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\textwidth]{figures/complete.png}
+	\caption{Global Air Network}
+	\label{fig:air_network}
+\end{figure}
 
 \section*{Centrality Measures Used}
 \subsection*{Closeness Centrality}
@@ -91,6 +101,42 @@ Cross-Validation Scores: [0.70046918, 0.63002486, 0.60691534, 0.69054177, 0.2595
 Mean Cross-Validation Score: 0.5775028193707866
 \end{verbatim}
 \textbf{Implications:} While the accuracy is lower than closeness centrality, betweenness centrality provides insights into nodes that act as crucial intermediaries, making it valuable for identifying bottlenecks or bridges.
+
+\section{Visualization of Predictions VS Actual Data}
+\subsection*{Closeness Predictions}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\textwidth]{figures/c_pred.png}
+	\caption{Predictions vs. Actual Data}
+	\label{fig:closeness_predictions}
+\end{figure}
+
+\subsection*{Closeness Real Values}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\textwidth]{figures/c.png}
+	\caption{Predictions vs. Actual Data}
+	\label{fig:closeness}
+\end{figure}
+
+\newpage
+\subsection*{Betweenness Predictions}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\textwidth]{figures/b_pred.png}
+	\caption{Predictions vs. Actual Data}
+	\label{fig:betweennesspredictions}
+\end{figure}
+
+\subsection*{Betweenness Real Values}
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=1\textwidth]{figures/b.png}
+	\caption{Predictions vs. Actual Data}
+	\label{fig:betweenness}
+\end{figure}
+
+\newpage
 
 \section*{Key Techniques Used}
 \begin{itemize}
