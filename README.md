@@ -1,13 +1,5 @@
 # Machine-Learning-Labs  
 This repository contains the Machine Learning labs, assignments, and projects completed during the **CS 471: Machine Learning** course at the **National University of Sciences and Technology (NUST)**. It includes various exercises, data preprocessing, machine learning techniques, and visualizations implemented as part of the course objectives.
- 
-
-## **Contents**  
-### **Labs**
-- **Lab 2–9**: Foundational ML tasks, including preprocessing, feature engineering, and classification problems.  
-- **Lab 10**: Heart disease prediction using machine learning models.  
-- **Lab 11–13**: Advanced topics such as ensemble models, regression, and neural networks.  
-- **Lab 14 Open Lab**: Graph analysis of a global flight network with centrality measures and predictive modeling.  
 
 ### **Assignments**
 - **Assignment 1–3**: Practical implementation of supervised and unsupervised learning algorithms.  
